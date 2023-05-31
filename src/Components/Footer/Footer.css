@@ -1,0 +1,20 @@
+/* FOOTER CSS */
+.Footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.3em;
+    font-size: 1.2em;
+    padding: 0.3em 0;
+    background-color: #232323;
+    color: #fff;
+    backdrop-filter: blur(4.5px);
+    -webkit-backdrop-filter: blur(4.5px);
+    cursor: default;
+}
+
+.Footer span {
+    text-decoration: none;
+    color: #fff;
+    cursor: pointer;
+}

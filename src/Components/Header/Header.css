@@ -1,0 +1,32 @@
+.Header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0 1em;
+    gap: 1em;
+}
+
+.Header p {
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.8em;
+    font-weight: 700;
+    text-transform: capitalize;
+    cursor: default;
+}
+/* 
+.Header p::before {
+    background-image: url(data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiIGlkPSJMYXllcl8xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHg9IjAiIHk9IjAiIHZpZXdCb3g9IjAgMCA0ODcuMSA1NCIgc3R5bGU9ImVuYWJsZS1iYWNrZ3JvdW5kOm5ldyAwIDAgNDg3LjEgNTQiIHhtbDpzcGFjZT0icHJlc2VydmUiPjxzdHlsZT4uc3Qwe2ZpbGw6bm9uZTtzdHJva2U6I2ZmY2Q0ZTtzdHJva2Utd2lkdGg6NDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmR9PC9zdHlsZT48cGF0aCBjbGFzcz0ic3QwIiBkPSJNMjEwLjggNTAuOGM3LjkgMCAxOC4zLTUuOSAzMC4xLTUuOSA2LjIgMCA4LjIuOCAxMi43IDIuNSA5LjIgMy40IDIxLjMgMS43IDMxLjUuMiA2LjctMSAxMi4yLTIuOSAyMC43LTIuNyA4LjYuMiAxNi4zIDIuNCAxOS44IDMuNiA2IDIuMSAyMi4yIDIgMjkuNyAxLjMgNi41LS42IDExLjItMi4yIDE4LjctMi40IDEyLjktLjQgMjAuNC0uNSAzMS41IDEuMyA1LjkuOSAxMi4yIDIuMiAxOC43IDIuMiA4LjIgMCAxNS40LTMgMjQuMS0zIDUuMSAwIDkuNC4yIDE0LjEgMSA0LjEuNyA2LjggMi4zIDEwLjcgM00yLjIgNTEuNGM3LjEtMy4yIDE3LTYuNSAyOC44LTYuNSA2LjIgMCA4LjIuOCAxMi43IDIuNSA5LjIgMy40IDIxLjMgMS43IDMxLjUuMiA2LjctMSAxMi4yLTIuOSAyMC43LTIuNyA4LjYuMiAxNi4zIDIuNCAxOS44IDMuNiA2IDIuMSAyMi4yIDIgMjkuNyAxLjMgNi41LS42IDExLjItMi4yIDE4LjctMi40IDEyLjktLjQgMjAuNC0uNSAzMS41IDEuMyA1LjkuOSA4LjcgMi4xIDE1LjEgMi4xTTQ1OS4zIDguOSA0NjMgMk00NzIuNCAxNy4xbDUuNi01LjVNNDc2LjUgMzEuOGw3LjctMS4yIi8+PC9zdmc+);
+    background-position: 100%;
+    background-repeat: no-repeat;
+    background-size: 437px 34px;
+    border-image: linear-gradient(90deg, #fff, hsla(0, 0%, 100%, 0)) 1 100%;
+    border-left-width: 9px;
+    border-right: none;
+    border-style: solid;
+    bottom: 20px;
+    content: " ";
+    left: -4px;
+    position: absolute;
+    right: 135px;
+    top: -15px;
+} */
